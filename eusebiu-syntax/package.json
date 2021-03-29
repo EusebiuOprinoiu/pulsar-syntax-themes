@@ -1,0 +1,15 @@
+{
+  "name": "eusebiu-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A dark syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/eusebiuoprinoiu/atom-syntax-themes",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
