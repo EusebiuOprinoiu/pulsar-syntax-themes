@@ -1,3 +1,3 @@
 # eusebiu-syntax theme
 
-A dark syntax theme for Atom.
+A dark syntax theme for Pulsar.
